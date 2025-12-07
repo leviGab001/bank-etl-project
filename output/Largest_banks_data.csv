@@ -1,0 +1,5 @@
+Name,MC_USD_Billion,MC_GBP_Billion,MC_EUR_Billion,MC_INR_Billion
+Bank A,1200.0,972.0,1116.0,99000.0
+Bank B,900.0,729.0,837.0,74250.0
+Bank C [1],750.0,607.5,697.5,61875.0
+Bank D,600.0,486.0,558.0,49500.0
